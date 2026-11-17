@@ -1,3 +1,7 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24299283.svg)](https://doi.org/10.5281/zenodo.24299283)
+
+> **Official Permanent Record (CERN Zenodo DOI):** `https://doi.org/10.5281/zenodo.24299283`
+
 # 獨立離網式仿生智慧光網 2.0：山林光水共生與全感官防災神經網白皮書（v2.0.0）
 **Off-Grid Bionic Smart Lighting 2.0: Forest Light-Water Symbiosis & Full-Sensory Disaster Early Warning Neural Network Whitepaper**
 
